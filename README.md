@@ -1,1 +1,1 @@
-# Assignments for Computer Network Lab, 3rd yr, 5th semester
+# Assignments for Computer Graphics Lab, 3rd yr, 5th semester
